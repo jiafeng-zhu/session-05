@@ -1,0 +1,25 @@
+/*
+
+selector {
+    property: value;
+    property: value;
+    property: value;
+}
+
+*/
+
+img {
+    border-radious: 30px; /* set border radious*/
+}
+
+.btn {  /*a dot. represents CLASS*/
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000C79;
+
+    color: #000C79;
+}
